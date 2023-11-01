@@ -92,7 +92,7 @@ The model is able to reach a validation accuracy of 98.3%, precision 0.65, recal
 ```
 MIT License
 
-Copyright (c) 2019 Abhinav Sagar
+Copyright (c) 2021 Hemanth Rayudu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
